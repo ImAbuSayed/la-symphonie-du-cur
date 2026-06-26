@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-symphonie-du-cur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for La Symphonie Du Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-symphonie-du-cur/) |
+| **Get License** | [Secure Licensing Rights for La Symphonie Du Cœur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-symphonie-du-cur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `705912e742ef5e5fb7ecb8c16f89d22325aade4cfe9044d235694f44756e1134` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
