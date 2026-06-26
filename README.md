@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons de Paname, ton parfum me rend fou
+> Un regard dans le club, baby, I'm all about you
+> Tu bouges sur la piste, c'est la fièvre du moment
+> La symphonie du cœur, on la joue sans faire semblant
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
